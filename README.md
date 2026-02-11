@@ -42,7 +42,16 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img width="956" height="403" alt="Screenshot 2025-11-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/172645cb-bb7c-42db-ad48-631ad124618e" />
   <img width="895" height="330" alt="Screenshot 2025-11-05 at 11 38 12 PM" src="https://github.com/user-attachments/assets/e0632df7-6e03-48ed-8fb4-975a033a2ea1" />
   <img width="954" height="326" alt="Screenshot 2025-11-05 at 11 41 05 PM" src="https://github.com/user-attachments/assets/09595254-579b-4775-82a2-03a11ff83033" />
-  <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
+   <p>
+   
+   <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
+
+   </p>
+   <img width="669" height="220" alt="Screenshot 2025-11-05 at 11 44 27 PM" src="https://github.com/user-attachments/assets/a552dd3e-c3b0-42e6-ad8b-319a3c67b30b" />
+  <img width="853" height="259" alt="Screenshot 2025-11-05 at 11 45 37 PM" src="https://github.com/user-attachments/assets/b559de32-d502-4f98-87d6-a507e0432357" />
+  <img width="734" height="665" alt="Screenshot 2025-11-05 at 11 46 43 PM" src="https://github.com/user-attachments/assets/2fcb50aa-9213-4d70-91f7-d02a44fd8b02" />
+  <img width="826" height="673" alt="Screenshot 2025-11-05 at 11 48 20 PM" src="https://github.com/user-attachments/assets/bc4e6e9f-4db4-4985-8044-6f2a36cd4fbc" />
+  <img width="847" height="300" alt="Screenshot 2025-11-05 at 11 49 15 PM" src="https://github.com/user-attachments/assets/7bb2b125-4de8-47ff-badb-f792fad0b285" />
   
   
   
