@@ -81,6 +81,13 @@ This tutorial outlines the post-install configuration of the open-source help de
    </p>
 
 <img width="881" height="293" alt="Screenshot 2025-11-06 at 12 21 16 AM" src="https://github.com/user-attachments/assets/4e329a25-3626-4267-8d30-c7e5d2c171b3" />
+<img width="887" height="513" alt="Screenshot 2025-11-06 at 12 23 30 AM" src="https://github.com/user-attachments/assets/f644b639-ce67-4b8a-bd7e-a4e39c013193" />
+<img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/b3e533a5-e17f-458b-91fd-e915a9efffaf" />
+<img width="879" height="518" alt="Screenshot 2025-11-06 at 12 24 21 AM" src="https://github.com/user-attachments/assets/9395ec70-ef26-4f7f-8b9c-aeb48ebd07ea" />
+
+<p>
+<img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/be0b47bd-b1a1-499e-83c5-dd381e853673" />
+</p>
 
 
 
