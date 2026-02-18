@@ -75,12 +75,15 @@ This tutorial outlines the post-install configuration of the open-source help de
    <img width="281" height="59" alt="Screenshot 2025-11-06 at 12 11 20 AM" src="https://github.com/user-attachments/assets/6792bac7-c626-4ef5-8bbd-6f325d297fd3" />
    <img width="904" height="230" alt="Screenshot 2025-11-06 at 12 11 57 AM" src="https://github.com/user-attachments/assets/94a46d0f-4443-4acd-9754-7d682635cd2a" />
    <img width="639" height="386" alt="Screenshot 2025-11-06 at 12 13 47 AM" src="https://github.com/user-attachments/assets/4c4d1334-4f9b-4d8c-81f6-98ae6b5309b4" />
-   
+<img width="670" height="403" alt="Screenshot 2026-02-18 at 12 58 33 PM" src="https://github.com/user-attachments/assets/30de9a0d-a327-4753-a131-518d06aad576" />
+
    <p>
    <img width="309" height="48" alt="Screenshot 2025-11-06 at 12 20 30 AM" src="https://github.com/user-attachments/assets/d39faef4-22f1-4036-a880-ee9ac2521c18" />
    </p>
 
-<img width="881" height="293" alt="Screenshot 2025-11-06 at 12 21 16 AM" src="https://github.com/user-attachments/assets/4e329a25-3626-4267-8d30-c7e5d2c171b3" />
+<img width="957" height="143" alt="Screenshot 2026-02-18 at 1 04 30 PM" src="https://github.com/user-attachments/assets/d8f377d2-0c48-4921-b02f-43cd61218568" />
+<img width="957" height="190" alt="Screenshot 2026-02-18 at 1 06 30 PM" src="https://github.com/user-attachments/assets/0572148f-fdee-471e-a57d-7ffed18dae3b" />
+<img width="959" height="187" alt="Screenshot 2026-02-18 at 1 07 21 PM" src="https://github.com/user-attachments/assets/139d1d82-bd73-46a8-b1c3-3c8b4955c3f2" />
 <img width="887" height="513" alt="Screenshot 2025-11-06 at 12 23 30 AM" src="https://github.com/user-attachments/assets/f644b639-ce67-4b8a-bd7e-a4e39c013193" />
 <img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/b3e533a5-e17f-458b-91fd-e915a9efffaf" />
 <img width="879" height="518" alt="Screenshot 2025-11-06 at 12 24 21 AM" src="https://github.com/user-attachments/assets/9395ec70-ef26-4f7f-8b9c-aeb48ebd07ea" />
