@@ -89,7 +89,7 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 
   <p>
 
-**Step 4-**
+**Step 4-** Create/Add New Role↓ New Role Title(Supreme Admin) From here, Go to Permissions → Tickets & Check each box to give Permissions to everything. Then, go to Tasks and check each box as well to allow them to do every single thing. Lastly, Go to Knowledgebase..Check Premade and click Add Role. (Supreme Admin should now be visible under the options for roles.)
 	  
   </p>
 <img width="661" height="75" alt="Screenshot 2026-04-08 at 2 01 33 PM" src="https://github.com/user-attachments/assets/d1a0085d-80b4-43a7-bc18-8de079d91b9e" />
