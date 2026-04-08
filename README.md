@@ -451,12 +451,28 @@ John was Successfully Added as an Agent(Worker)
 
 <p>
 
-**Task 9-** Configure Help Topics (For when users create a ticket)
+**Task 9-** Configure Help Topics (For when users create a ticket)↓
+
+<p>
+	
+**Step 1-** Click Manage Tab↓
+
+</p>
 	
 </p>
 
 <img width="957" height="143" alt="Screenshot 2026-02-18 at 1 04 30 PM" src="https://github.com/user-attachments/assets/1eafbeca-ec68-433e-951a-82cfa8e2e485" />
+
+<p>
+	
+**Step 2-**	Click Help Topics Tab↓
+</p>
 <img width="962" height="141" alt="Screenshot 2026-02-18 at 1 25 04 PM" src="https://github.com/user-attachments/assets/9e195718-26cc-43de-b5d5-f1729e2567c9" />
+
+<p>
+
+**Step 3-** Click Add New Help Topic↓	
+</p>
 <img width="957" height="189" alt="Screenshot 2026-02-18 at 1 27 29 PM" src="https://github.com/user-attachments/assets/f51401ec-1602-48cb-a208-437917c5ab56" />
 <img width="892" height="493" alt="Screenshot 2025-11-06 at 12 27 28 AM" src="https://github.com/user-attachments/assets/82ded156-3d27-43f5-a36d-d76f7e1e9783" />
 <p>
