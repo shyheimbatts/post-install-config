@@ -63,11 +63,28 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/1475d51a-0d4e-46ea-919b-4212d8f67420" />
 <p>
 
-**Task 2-** Select
+**Task 2-** Configure Roles (For Grouping Permissions)
+
+<p>
+	
+**Step 1-** Select Admin Panel ↓
+
+</p>
 		
 </p>
   <img width="955" height="345" alt="Screenshot 2025-11-05 at 11 12 56 PM" src="https://github.com/user-attachments/assets/b8c8932d-64a0-4c9f-a72e-e36935d05124" />
+<p>
+
+**Step 2-** Select Agents↓
+	
+</p>
+  
   <img width="958" height="750" alt="Screenshot 2025-11-05 at 11 15 37 PM" src="https://github.com/user-attachments/assets/a93f8229-2444-4710-81a4-759f0230ea32" />
+  <p>
+
+**Step 3-** Within the Agents Tab Select Roles↓
+	  
+  </p>
   <img width="891" height="169" alt="Screenshot 2025-11-05 at 11 28 56 PM" src="https://github.com/user-attachments/assets/c09b6338-a7f4-41af-bed2-2ae450891bd6" />
   <img width="958" height="377" alt="Screenshot 2025-11-05 at 11 32 18 PM" src="https://github.com/user-attachments/assets/14ae6148-efc4-4d52-ab31-5de5b6129b54" />
   <img width="954" height="562" alt="Screenshot 2025-11-05 at 11 33 34 PM" src="https://github.com/user-attachments/assets/c2e00ed1-27d6-4c1d-afce-dcf46520a8c8" />
