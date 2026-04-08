@@ -382,11 +382,68 @@ John was Successfully Added as an Agent(Worker)
 <p>
 	SCHEDULE: 24/7
 </p>
+
+<p>
+
+**Click ADD PLAN**
+</p>
 	
 </p>
 <img width="887" height="513" alt="Screenshot 2025-11-06 at 12 23 30 AM" src="https://github.com/user-attachments/assets/f644b639-ce67-4b8a-bd7e-a4e39c013193" />
+
+<p>
+
+**Step 6-** Start by Clicking Add New SLA Plan, Then fill in the information for SLA Plan↓
+<p>
+	NAME: Sev-B
+</p>
+<p>
+	STATUS: Active
+</p>
+<p>
+	GRACE PERIOD: 4-Hours
+</p>
+<p>
+	SCHEDULE: 24/7
+</p>
+
+<p>
+
+**Click ADD PLAN**	
+</p>
+
+
+
+
 <img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/b3e533a5-e17f-458b-91fd-e915a9efffaf" />
 <img width="879" height="518" alt="Screenshot 2025-11-06 at 12 24 21 AM" src="https://github.com/user-attachments/assets/9395ec70-ef26-4f7f-8b9c-aeb48ebd07ea" />
+
+
+<p>
+	 
+**Step 7-** Start by Clicking Add New SLA Plan, Then fill in the information for SLA Plan↓
+<p>
+	NAME: Sev-C
+</p>
+<p>
+	STATUS: Active
+</p>
+<p>
+	GRACE PERIOD: 8-Hours
+</p>
+<p>
+	SCHEDULE: Mon - Fri, 8am - 5pm with U.S. Holidays(Normal Business Hours)
+</p>
+
+<p>
+
+**Click ADD PLAN**	
+</p>
+
+
+</p>
+
+
 
 <p>
 <img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/be0b47bd-b1a1-499e-83c5-dd381e853673" />
