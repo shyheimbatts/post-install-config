@@ -86,13 +86,26 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 	  
   </p>
   <img width="891" height="169" alt="Screenshot 2025-11-05 at 11 28 56 PM" src="https://github.com/user-attachments/assets/c09b6338-a7f4-41af-bed2-2ae450891bd6" />
-  <img width="958" height="377" alt="Screenshot 2025-11-05 at 11 32 18 PM" src="https://github.com/user-attachments/assets/14ae6148-efc4-4d52-ab31-5de5b6129b54" />
-  <img width="954" height="562" alt="Screenshot 2025-11-05 at 11 33 34 PM" src="https://github.com/user-attachments/assets/c2e00ed1-27d6-4c1d-afce-dcf46520a8c8" />
-  <img width="957" height="706" alt="Screenshot 2025-11-05 at 11 34 34 PM" src="https://github.com/user-attachments/assets/4110652a-6e47-48c8-b76a-bce27c3f0097" />
-  <img width="426" height="485" alt="Screenshot 2025-11-05 at 11 35 07 PM" src="https://github.com/user-attachments/assets/7a1d8502-d15a-4c2f-88f8-4227e362a7a5" />
-  <img width="956" height="403" alt="Screenshot 2025-11-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/172645cb-bb7c-42db-ad48-631ad124618e" />
-  <img width="895" height="330" alt="Screenshot 2025-11-05 at 11 38 12 PM" src="https://github.com/user-attachments/assets/e0632df7-6e03-48ed-8fb4-975a033a2ea1" />
-  <img width="954" height="326" alt="Screenshot 2025-11-05 at 11 41 05 PM" src="https://github.com/user-attachments/assets/09595254-579b-4775-82a2-03a11ff83033" />
+
+  <p>
+
+**Step 4-**
+	  
+  </p>
+<img width="661" height="75" alt="Screenshot 2026-04-08 at 2 01 33 PM" src="https://github.com/user-attachments/assets/d1a0085d-80b4-43a7-bc18-8de079d91b9e" />
+<img width="954" height="562" alt="Screenshot 2025-11-05 at 11 33 34 PM" src="https://github.com/user-attachments/assets/c2e00ed1-27d6-4c1d-afce-dcf46520a8c8" />
+<img width="957" height="706" alt="Screenshot 2025-11-05 at 11 34 34 PM" src="https://github.com/user-attachments/assets/4110652a-6e47-48c8-b76a-bce27c3f0097" />
+<img width="426" height="485" alt="Screenshot 2025-11-05 at 11 35 07 PM" src="https://github.com/user-attachments/assets/7a1d8502-d15a-4c2f-88f8-4227e362a7a5" />
+<img width="956" height="403" alt="Screenshot 2025-11-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/172645cb-bb7c-42db-ad48-631ad124618e" />
+<img width="432" height="287" alt="Screenshot 2026-04-08 at 2 00 07 PM" src="https://github.com/user-attachments/assets/534f857c-421f-4f21-b5c4-707a5ef2a080" />
+
+<p>
+
+**Task 3-**
+	
+</p>
+<img width="895" height="330" alt="Screenshot 2025-11-05 at 11 38 12 PM" src="https://github.com/user-attachments/assets/e0632df7-6e03-48ed-8fb4-975a033a2ea1" />
+<img width="954" height="326" alt="Screenshot 2025-11-05 at 11 41 05 PM" src="https://github.com/user-attachments/assets/09595254-579b-4775-82a2-03a11ff83033" />
    <p>
    
    <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
