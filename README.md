@@ -164,6 +164,13 @@ Click Create Team
 
 **Task 5-**  Allow Ticket Creations (Anyone)
 
+**Step 1**  Start in this order: Admin Panel → Settings → Users → Settings (Under authentication settings please make sure that registration is not required by keeping the box next to it unchecked, This gives unregistered users the ability to create tickets.)
+
+<p>
+
+**→SAVE CHANGES**
+	
+</p>
 	
 </p>
 
