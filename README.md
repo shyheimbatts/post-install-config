@@ -188,17 +188,90 @@ Click Create Team
 	
 </p>
   <img width="847" height="300" alt="Screenshot 2025-11-05 at 11 49 15 PM" src="https://github.com/user-attachments/assets/7bb2b125-4de8-47ff-badb-f792fad0b285" />
+<p>
+
+**Step 2-** Fill in Account Information↓	  
+
+<p>
+
+<p>
+Name: Jane Doe
+</p>
+<p>
+Email: Jane@lognpacific.com
+</p>
+<p>
+Username:jane
+</p>
+<p>
+Password: Password1
+</p>
+<p>
+→ Click Update to Save Account Information.	
+</p>
+	
+</p>
+
+
+
+	  
+  </p>
  <img width="885" height="648" alt="Screenshot 2025-11-05 at 11 54 53 PM" src="https://github.com/user-attachments/assets/5593a0da-b9b3-4907-a8a4-6b2d9c89926a" />
 
  <p>
  <img width="386" height="109" alt="Screenshot 2025-11-06 at 12 07 21 AM" src="https://github.com/user-attachments/assets/2f9d14fa-0fe2-4e91-9440-74b04258a883" 
  </p> 
 <img width="634" height="378" alt="Screenshot 2025-11-06 at 12 10 35 AM" src="https://github.com/user-attachments/assets/74e1f3fd-b81b-412c-8ec9-587ff7df081b" />
+
+<p>
+
+**Step 3-** Go to the Access tab, For the Primary Department place Jane in **(Support/SysAdmins)** and for her role make her **(Supreme Admin)** so that she has access to everything.
+	
+</p>	 
 <img width="901" height="534" alt="Screenshot 2025-11-05 at 11 58 48 PM" src="https://github.com/user-attachments/assets/3ff1cdf2-7ae0-451b-9db7-2448c0bf022d" />
+
+<p>
+
+**Step 4-** Go to the Teams tab, Add Jane to the **Online Banking Team** and click Create.
+	
+</p>
 <img width="895" height="423" alt="Screenshot 2025-11-05 at 11 59 14 PM" src="https://github.com/user-attachments/assets/20cf921b-326c-41d3-bf23-17413305ff6b" />
+
+<p>
+Jane Successfully Added as an Agent(Worker)	
+</p>
 <img width="834" height="185" alt="Screenshot 2025-11-05 at 11 59 50 PM" src="https://github.com/user-attachments/assets/0621a194-5fdf-4882-9042-c3b17375e54f" />
+
+<p>
+
+**Step 7-** Start in this order: Admin Panel → Agents → Add New Agent
+	
+</p>
    
 <img width="895" height="310" alt="Screenshot 2025-11-06 at 12 00 27 AM" src="https://github.com/user-attachments/assets/ba4cceca-8291-4f5a-9950-cbf81f045bf6" />
+<p>
+
+**Step 8-** Fill in Account Information↓	  
+
+<p>
+
+<p>
+Name: John Doe
+</p>
+<p>
+Email: John@lognpacific.com
+</p>
+<p>
+Username:john
+</p>
+<p>
+Password: Password1
+</p>
+<p>
+→ Click Update to Save Account Information.	
+</p>
+	
+</p>
 <img width="878" height="666" alt="Screenshot 2025-11-06 at 12 01 44 AM" src="https://github.com/user-attachments/assets/e7555190-4e76-42ca-9d2c-e297c7ee0d68" />
 <img width="386" height="109" alt="Screenshot 2025-11-06 at 12 07 21 AM" src="https://github.com/user-attachments/assets/e9c5d405-cd2e-4335-973f-b411539400b7" />
 <img width="634" height="378" alt="Screenshot 2025-11-06 at 12 10 35 AM" src="https://github.com/user-attachments/assets/3c7e9aaa-0469-4867-992e-fbe7b346658a" 
