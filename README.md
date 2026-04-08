@@ -443,13 +443,18 @@ John was Successfully Added as an Agent(Worker)
 
 </p>
 
-
-
 <p>
 <img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/be0b47bd-b1a1-499e-83c5-dd381e853673" />
 </p>
 
 <img width="859" height="513" alt="Screenshot 2025-11-06 at 12 25 09 AM" src="https://github.com/user-attachments/assets/b6a52362-98ce-43f4-a7c0-ac9edbc23d2a" />
+
+<p>
+
+**Task 9-** Configure Help Topics (For when users create a ticket)
+	
+</p>
+
 <img width="957" height="143" alt="Screenshot 2026-02-18 at 1 04 30 PM" src="https://github.com/user-attachments/assets/1eafbeca-ec68-433e-951a-82cfa8e2e485" />
 <img width="962" height="141" alt="Screenshot 2026-02-18 at 1 25 04 PM" src="https://github.com/user-attachments/assets/9e195718-26cc-43de-b5d5-f1729e2567c9" />
 <img width="957" height="189" alt="Screenshot 2026-02-18 at 1 27 29 PM" src="https://github.com/user-attachments/assets/f51401ec-1602-48cb-a208-437917c5ab56" />
