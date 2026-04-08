@@ -339,7 +339,7 @@ John was Successfully Added as an Agent(Worker)
 
 <p>
 
-**Task 8-** Configure SLA,
+**Task 8-** Configure SLA, (The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed.)
 
 **Step 1-** Start with returning back to Admin Panel↓
 
@@ -366,6 +366,24 @@ John was Successfully Added as an Agent(Worker)
 **Step 4-** Click Add New SLA Plan↓	
 </P>
 <img width="959" height="187" alt="Screenshot 2026-02-18 at 1 07 21 PM" src="https://github.com/user-attachments/assets/139d1d82-bd73-46a8-b1c3-3c8b4955c3f2" />
+
+<p>
+
+**Step 5-** Fill in the information for SLA Plan↓
+<p>
+	NAME: Sev-A
+</p>
+<p>
+	STATUS: Active
+</p>
+<p>
+	GRACE PERIOD: 1-Hour
+</p>
+<p>
+	SCHEDULE: 24/7
+</p>
+	
+</p>
 <img width="887" height="513" alt="Screenshot 2025-11-06 at 12 23 30 AM" src="https://github.com/user-attachments/assets/f644b639-ce67-4b8a-bd7e-a4e39c013193" />
 <img width="168" height="38" alt="Screenshot 2025-11-06 at 12 23 55 AM" src="https://github.com/user-attachments/assets/b3e533a5-e17f-458b-91fd-e915a9efffaf" />
 <img width="879" height="518" alt="Screenshot 2025-11-06 at 12 24 21 AM" src="https://github.com/user-attachments/assets/9395ec70-ef26-4f7f-8b9c-aeb48ebd07ea" />
