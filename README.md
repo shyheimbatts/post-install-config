@@ -3,7 +3,17 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. 
+<p>
+Two URL's are used to complete the tasks for osTicket, The first one is to login → </head>
+<body>
+	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a>
+</body>
+</html><br /> and The second one is used for End users → <body>
+	<a href="https://localhost/osTicket">End Users osTicket URL:</a>
+</body>
+</html><br />
+</p>
 
 
 <h2>Video Demonstration</h2>
