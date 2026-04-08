@@ -238,20 +238,20 @@ Password: Password1
 <img width="895" height="423" alt="Screenshot 2025-11-05 at 11 59 14 PM" src="https://github.com/user-attachments/assets/20cf921b-326c-41d3-bf23-17413305ff6b" />
 
 <p>
-Jane Successfully Added as an Agent(Worker)	
+Jane was Successfully Added as an Agent(Worker)	
 </p>
 <img width="834" height="185" alt="Screenshot 2025-11-05 at 11 59 50 PM" src="https://github.com/user-attachments/assets/0621a194-5fdf-4882-9042-c3b17375e54f" />
 
 <p>
 
-**Step 7-** Start in this order: Admin Panel → Agents → Add New Agent
+**Step 5-** Start in this order: Admin Panel → Agents → Add New Agent
 	
 </p>
    
 <img width="895" height="310" alt="Screenshot 2025-11-06 at 12 00 27 AM" src="https://github.com/user-attachments/assets/ba4cceca-8291-4f5a-9950-cbf81f045bf6" />
 <p>
 
-**Step 8-** Fill in Account Information↓	  
+**Step 6-** Fill in Account Information↓	  
 
 <p>
 
@@ -274,12 +274,35 @@ Password: Password1
 </p>
 <img width="878" height="666" alt="Screenshot 2025-11-06 at 12 01 44 AM" src="https://github.com/user-attachments/assets/e7555190-4e76-42ca-9d2c-e297c7ee0d68" />
 <img width="386" height="109" alt="Screenshot 2025-11-06 at 12 07 21 AM" src="https://github.com/user-attachments/assets/e9c5d405-cd2e-4335-973f-b411539400b7" />
-<img width="634" height="378" alt="Screenshot 2025-11-06 at 12 10 35 AM" src="https://github.com/user-attachments/assets/3c7e9aaa-0469-4867-992e-fbe7b346658a" 
+<img width="634" height="378" alt="Screenshot 2025-11-06 at 12 10 35 AM" src="https://github.com/user-attachments/assets/3c7e9aaa-0469-4867-992e-fbe7b346658a" />
+
+<p>
+
+**Step 7-** Go to the Access tab, For the Primary Department place John in **(Support)** and for his role make it so that he has **(View Only)** Access.
+	
+</p>
 <img width="894" height="528" alt="Screenshot 2025-11-06 at 12 02 11 AM" src="https://github.com/user-attachments/assets/2909fa47-f3bc-4b78-8a9d-a33590156d1e" />
-<img width="894" height="528" alt="Screenshot 2025-11-06 at 12 02 11 AM" src="https://github.com/user-attachments/assets/e8484ea8-47c9-4f6c-a349-210a1014b4dd" />
+
+<p>
+
+**Step 8-** Go to the Teams tab, and leave the team section **Blank** for John..Then click Create.
+	
+</p>
 <img width="897" height="422" alt="Screenshot 2025-11-06 at 12 02 50 AM" src="https://github.com/user-attachments/assets/12809b66-1162-4448-9c95-917d9a861a8f" />
 <p>
+
+<p>
+John was Successfully Added as an Agent(Worker)
+</p>
+
+<p>
 <img width="261" height="44" alt="Screenshot 2025-11-06 at 12 04 10 AM" src="https://github.com/user-attachments/assets/e83571b7-47c7-41d5-9331-e7a7ec334a29" />
+</p>
+
+<p>
+
+**Task 7-**  Configure Users (Customers)
+	
 </p>
    <img width="281" height="59" alt="Screenshot 2025-11-06 at 12 11 20 AM" src="https://github.com/user-attachments/assets/6792bac7-c626-4ef5-8bbd-6f325d297fd3" />
    <img width="904" height="230" alt="Screenshot 2025-11-06 at 12 11 57 AM" src="https://github.com/user-attachments/assets/94a46d0f-4443-4acd-9754-7d682635cd2a" />
