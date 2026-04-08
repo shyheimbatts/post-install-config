@@ -46,6 +46,18 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 <h2>Configuration Tasks↓</h2>
 
 <p>
+
+**Task 1-** Begin by logging into the web portal with the admin/analyst account that was created during the osTicket installation process.
+
+<p>
+	Username - adminuser
+	<p>
+	Password - Password123!
+	</p>	
+</p>
+	
+</p>
+<p>
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/1475d51a-0d4e-46ea-919b-4212d8f67420" />
   <img width="955" height="345" alt="Screenshot 2025-11-05 at 11 12 56 PM" src="https://github.com/user-attachments/assets/b8c8932d-64a0-4c9f-a72e-e36935d05124" />
   <img width="958" height="750" alt="Screenshot 2025-11-05 at 11 15 37 PM" src="https://github.com/user-attachments/assets/a93f8229-2444-4710-81a4-759f0230ea32" />
