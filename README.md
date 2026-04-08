@@ -160,6 +160,14 @@ Click Create Team
   <img width="853" height="259" alt="Screenshot 2025-11-05 at 11 45 37 PM" src="https://github.com/user-attachments/assets/b559de32-d502-4f98-87d6-a507e0432357" />
   <img width="734" height="665" alt="Screenshot 2025-11-05 at 11 46 43 PM" src="https://github.com/user-attachments/assets/2fcb50aa-9213-4d70-91f7-d02a44fd8b02" />
 
+<p>
+
+**Task 5-**  Allow Ticket Creations (Anyone)
+
+	
+</p>
+
+
  <p>
   <img width="826" height="673" alt="Screenshot 2025-11-05 at 11 48 20 PM" src="https://github.com/user-attachments/assets/bc4e6e9f-4db4-4985-8044-6f2a36cd4fbc" />
 </p>  
