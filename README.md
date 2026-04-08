@@ -105,7 +105,7 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 
 <p>
 
-**Step 1-**
+**Step 1-** Within the Admin Panel go to Agents → Departments → Add New Department
 	
 </p>
 	
