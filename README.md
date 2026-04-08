@@ -39,9 +39,8 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 - Task 5 Allow Ticket Creations (Anyone)
 - Task 6 Configure Agents (Workers)
 - Task 7 Configure Users (Customers)
-- Task 8
-- Task 9
-- Task 10
+- Task 8 Configure SLA
+- Task 9 Configure Help Topics (For when users create a ticket)
 
 <h2>Configuration Tasks↓</h2>
 
