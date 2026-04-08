@@ -101,14 +101,25 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 
 <p>
 
-**Task 3-**
+**Task 3-** Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+
+<p>
+
+**Step 1-**
 	
 </p>
-<img width="895" height="330" alt="Screenshot 2025-11-05 at 11 38 12 PM" src="https://github.com/user-attachments/assets/e0632df7-6e03-48ed-8fb4-975a033a2ea1" />
+	
+</p>
+<img width="464" height="51" alt="Screenshot 2026-04-08 at 2 45 19 PM" src="https://github.com/user-attachments/assets/75ffd68c-0615-4e21-9bcc-12b924135590" />
+<p>
+<img width="279" height="59" alt="Screenshot 2026-04-08 at 2 48 42 PM" src="https://github.com/user-attachments/assets/42408b7f-e347-447c-bf7c-7a35e94b9a56" />
+</p>
+<p>
+<img width="665" height="58" alt="Screenshot 2026-04-08 at 2 49 57 PM" src="https://github.com/user-attachments/assets/72506549-a63b-4bf7-92aa-a2ba822a00ed" />
+</p>	
 <img width="954" height="326" alt="Screenshot 2025-11-05 at 11 41 05 PM" src="https://github.com/user-attachments/assets/09595254-579b-4775-82a2-03a11ff83033" />
-   <p>
-   
-   <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
+<p>
+ <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
 
    </p>
    <img width="669" height="220" alt="Screenshot 2025-11-05 at 11 44 27 PM" src="https://github.com/user-attachments/assets/a552dd3e-c3b0-42e6-ad8b-319a3c67b30b" />
