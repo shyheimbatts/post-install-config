@@ -138,12 +138,31 @@ Click Create Department
 
  <p>
 
-**Task 4-**
+**Task 4-** Configure Teams- Teams allow you to pull Agents from different Departments and organize them to handle a specific issue or user via a Help Topic or Ticket Filter.
+
+<p>
+
+**Step 1-** From the Admin Panel go to Agents → Teams → Add New Team.
+<p>
+Fill in Team information↓
+</p>
+<p>
+NAME: Online Banking
+</p>
+<p>
+Status: Active
+</p>
+
+Click Create Team
+</p>
 	 
  </p>  
   <img width="853" height="259" alt="Screenshot 2025-11-05 at 11 45 37 PM" src="https://github.com/user-attachments/assets/b559de32-d502-4f98-87d6-a507e0432357" />
   <img width="734" height="665" alt="Screenshot 2025-11-05 at 11 46 43 PM" src="https://github.com/user-attachments/assets/2fcb50aa-9213-4d70-91f7-d02a44fd8b02" />
+
+ <p>
   <img width="826" height="673" alt="Screenshot 2025-11-05 at 11 48 20 PM" src="https://github.com/user-attachments/assets/bc4e6e9f-4db4-4985-8044-6f2a36cd4fbc" />
+</p>  
   <img width="847" height="300" alt="Screenshot 2025-11-05 at 11 49 15 PM" src="https://github.com/user-attachments/assets/7bb2b125-4de8-47ff-badb-f792fad0b285" />
  <img width="885" height="648" alt="Screenshot 2025-11-05 at 11 54 53 PM" src="https://github.com/user-attachments/assets/5593a0da-b9b3-4907-a8a4-6b2d9c89926a" />
 
