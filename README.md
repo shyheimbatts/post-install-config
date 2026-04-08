@@ -116,13 +116,31 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 </p>
 <p>
 <img width="665" height="58" alt="Screenshot 2026-04-08 at 2 49 57 PM" src="https://github.com/user-attachments/assets/72506549-a63b-4bf7-92aa-a2ba822a00ed" />
+</p>
+
+<p>
+
+**Step 2-** Enter in the Department Information Below↓
+<p>
+PARENT → Top Level Department
 </p>	
+<p>
+NAME → SysAdmins
+</p>
+Click Create Department
+</p>
 <img width="954" height="326" alt="Screenshot 2025-11-05 at 11 41 05 PM" src="https://github.com/user-attachments/assets/09595254-579b-4775-82a2-03a11ff83033" />
 <p>
  <img width="332" height="76" alt="Screenshot 2025-11-05 at 11 41 19 PM" src="https://github.com/user-attachments/assets/76ffc971-f513-4661-8e93-ca00303d26d9" />
 
    </p>
    <img width="669" height="220" alt="Screenshot 2025-11-05 at 11 44 27 PM" src="https://github.com/user-attachments/assets/a552dd3e-c3b0-42e6-ad8b-319a3c67b30b" />
+
+ <p>
+
+**Task 4-**
+	 
+ </p>  
   <img width="853" height="259" alt="Screenshot 2025-11-05 at 11 45 37 PM" src="https://github.com/user-attachments/assets/b559de32-d502-4f98-87d6-a507e0432357" />
   <img width="734" height="665" alt="Screenshot 2025-11-05 at 11 46 43 PM" src="https://github.com/user-attachments/assets/2fcb50aa-9213-4d70-91f7-d02a44fd8b02" />
   <img width="826" height="673" alt="Screenshot 2025-11-05 at 11 48 20 PM" src="https://github.com/user-attachments/assets/bc4e6e9f-4db4-4985-8044-6f2a36cd4fbc" />
