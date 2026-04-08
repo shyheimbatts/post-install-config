@@ -314,6 +314,19 @@ John was Successfully Added as an Agent(Worker)
 	   
    </p>
    <img width="904" height="230" alt="Screenshot 2025-11-06 at 12 11 57 AM" src="https://github.com/user-attachments/assets/94a46d0f-4443-4acd-9754-7d682635cd2a" />
+
+   <p>
+
+**Step 3-** Fill in User information↓
+<p>
+	Email Address: karen@lognpacific.com
+</p>
+<p>
+	Name: Karen
+</p>
+
+**Click Add User**
+   </p>
    <img width="639" height="386" alt="Screenshot 2025-11-06 at 12 13 47 AM" src="https://github.com/user-attachments/assets/4c4d1334-4f9b-4d8c-81f6-98ae6b5309b4" />
 <img width="670" height="403" alt="Screenshot 2026-02-18 at 12 58 33 PM" src="https://github.com/user-attachments/assets/30de9a0d-a327-4753-a131-518d06aad576" />
 
