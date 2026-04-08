@@ -33,12 +33,12 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 <h2>Post-Install Configuration Objectives</h2>
 
 - Task 1 Login through Admin/Analyst Login Page
-- Task 2 
-- Task 3
-- Task 4
-- Task 5
-- Task 6
-- Task 7
+- Task 2 Configure Roles (For Grouping Permissions)
+- Task 3 Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+- Task 4 Configure Teams
+- Task 5 Allow Ticket Creations (Anyone)
+- Task 6 Configure Agents (Workers)
+- Task 7 Configure Users (Customers)
 - Task 8
 - Task 9
 - Task 10
@@ -59,6 +59,11 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 </p>
 <p>
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/1475d51a-0d4e-46ea-919b-4212d8f67420" />
+<p>
+
+**Task 2-**
+		
+</p>
   <img width="955" height="345" alt="Screenshot 2025-11-05 at 11 12 56 PM" src="https://github.com/user-attachments/assets/b8c8932d-64a0-4c9f-a72e-e36935d05124" />
   <img width="958" height="750" alt="Screenshot 2025-11-05 at 11 15 37 PM" src="https://github.com/user-attachments/assets/a93f8229-2444-4710-81a4-759f0230ea32" />
   <img width="891" height="169" alt="Screenshot 2025-11-05 at 11 28 56 PM" src="https://github.com/user-attachments/assets/c09b6338-a7f4-41af-bed2-2ae450891bd6" />
