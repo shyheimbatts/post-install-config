@@ -22,8 +22,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Task 1
-- Task 2
+- Task 1 Login through Admin/Analyst Login Page
+- Task 2 
 - Task 3
 - Task 4
 - Task 5
@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Task 9
 - Task 10
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Tasks↓</h2>
 
 <p>
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/1475d51a-0d4e-46ea-919b-4212d8f67420" />
