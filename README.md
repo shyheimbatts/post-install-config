@@ -301,10 +301,18 @@ John was Successfully Added as an Agent(Worker)
 
 <p>
 
-**Task 7-**  Configure Users (Customers)
+**Task 7-**  Configure Users (Customers) Start in this order: Agent Panel → Users → Add User
+
+**Step 1-** Click on Agent Panel
 	
 </p>
    <img width="281" height="59" alt="Screenshot 2025-11-06 at 12 11 20 AM" src="https://github.com/user-attachments/assets/6792bac7-c626-4ef5-8bbd-6f325d297fd3" />
+
+   <p>
+
+**Step 2** Click Users → Add User
+	   
+   </p>
    <img width="904" height="230" alt="Screenshot 2025-11-06 at 12 11 57 AM" src="https://github.com/user-attachments/assets/94a46d0f-4443-4acd-9754-7d682635cd2a" />
    <img width="639" height="386" alt="Screenshot 2025-11-06 at 12 13 47 AM" src="https://github.com/user-attachments/assets/4c4d1334-4f9b-4d8c-81f6-98ae6b5309b4" />
 <img width="670" height="403" alt="Screenshot 2026-02-18 at 12 58 33 PM" src="https://github.com/user-attachments/assets/30de9a0d-a327-4753-a131-518d06aad576" />
