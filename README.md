@@ -46,7 +46,10 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 
 <p>
 
-**Task 1-** Begin by logging into the web portal with the admin/analyst account that was created during the osTicket installation process.
+**Task 1-** Begin by logging into the web portal with the admin/analyst account that was created during the osTicket installation process.  
+→ </head><body>
+	<a href="https://localhost/osTicket/scp/login.php">Admin/Analyst Login Page:</a>
+</body>
 
 <p>
 	Username - adminuser
@@ -60,7 +63,7 @@ Two URL's are used to complete the tasks for osTicket, The first one is to login
 <img width="619" height="403" alt="Screenshot 2025-11-05 at 10 24 18 PM" src="https://github.com/user-attachments/assets/1475d51a-0d4e-46ea-919b-4212d8f67420" />
 <p>
 
-**Task 2-**
+**Task 2-** Select
 		
 </p>
   <img width="955" height="345" alt="Screenshot 2025-11-05 at 11 12 56 PM" src="https://github.com/user-attachments/assets/b8c8932d-64a0-4c9f-a72e-e36935d05124" />
