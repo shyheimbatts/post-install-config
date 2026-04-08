@@ -474,7 +474,55 @@ John was Successfully Added as an Agent(Worker)
 **Step 3-** Click Add New Help Topic↓	
 </p>
 <img width="957" height="189" alt="Screenshot 2026-02-18 at 1 27 29 PM" src="https://github.com/user-attachments/assets/f51401ec-1602-48cb-a208-437917c5ab56" />
+<p>
+
+**Step 4-** Fill in help topic information↓
+<p>
+Topic: Business Critical Outage
+</p>
+<p>
+Status:	Active
+</p>
+<p>
+Type: Public	
+</p>
+<p>
+Parent Topic: Report a Problem	
+</p>
+
+<p>
+	
+**Click Add Topic**	
+
+</p>
+	
+</p>
 <img width="892" height="493" alt="Screenshot 2025-11-06 at 12 27 28 AM" src="https://github.com/user-attachments/assets/82ded156-3d27-43f5-a36d-d76f7e1e9783" />
+
+<p>
+
+**Step 5-** Click Add New Help Topic, Fill in help topic information↓
+<p>
+Topic: Personal Computer Issues
+</p>
+<p>
+Status:	Active
+</p>
+<p>
+Type: Public
+</p>
+<p>
+Parent Topic: Report a Problem
+</p>
+
+<p>
+	
+**Click Add Topic**	
+
+</p>
+
+</p>
+	
 <p>
   <img width="179" height="40" alt="Screenshot 2025-11-06 at 12 28 16 AM" src="https://github.com/user-attachments/assets/162baa77-48a0-47bb-af59-0c124438f59e" />
 </p>
